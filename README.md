@@ -119,9 +119,7 @@ Create a Pull Request.
 Your Name
 
 GitHub: https://github.com/your-username
-📄 License
 
-This project is available for educational and learning purposes.You can add an appropriate open-source license if you intend to distribute it.
 
 ⭐ If you find this project useful, don't forget to give it a star!
 
