@@ -118,7 +118,7 @@ Create a Pull Request.
 
 Your Name
 
-GitHub: https://github.com/your-username
+GitHub:
 
 
 ⭐ If you find this project useful, don't forget to give it a star!
