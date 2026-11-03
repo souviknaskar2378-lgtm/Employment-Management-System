@@ -1,4 +1,4 @@
-🏢 Employment Management System
+9🏢 Employment Management System
 📌 Overview
 
 The Employment Management System is a Python-based application developed to manage and maintain employee information efficiently. It helps organizations simplify employee administration by providing a centralized system to store, update, view, and manage employee records.
@@ -121,7 +121,7 @@ Your Name
 GitHub: https://github.com/your-username
 📄 License
 
-This project is available for educational and learning purposes. You can add an appropriate open-source license if you intend to distribute it.
+This project is available for educational and learning purposes.You can add an appropriate open-source license if you intend to distribute it.
 
 ⭐ If you find this project useful, don't forget to give it a star!
 
