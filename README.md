@@ -116,9 +116,14 @@ Make your changes.
 Commit your changes.
 Push your branch.
 Create a Pull Request.
+
+
 👨‍💻 Author
 
-Your Name
+Team leader: Souvik Naskar
+Team Members: Purushottam Kumar
+              Arka mondal
+              Abhrojit Biswas
 
 GitHub:
 
